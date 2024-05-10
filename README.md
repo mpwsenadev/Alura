@@ -18,22 +18,6 @@ The projects featured here represent my practical application of skills acquired
 
 ---
 
-## How to Use
-
-1. **Browse Projects**: Navigate project directories to access source code, documentation, and related materials.
-
-2. **Learn and Apply**: Gain insights into various technologies and methodologies showcased in the projects, applying them to your own projects and learning journey.
-
-3. **Enroll in Alura Courses**: For deeper understanding, enroll in relevant courses on the [Alura platform](https://www.alura.com.br/) to expand your skill set and knowledge.
-
----
-
-## Support
-
-For inquiries or feedback regarding projects or Alura courses, please [contact me](mailto:mpwsenadev@gmail.com).
-
----
-
 ## License
 
 This repository is licensed under the [MIT License](LICENSE). See the [LICENSE](LICENSE) file for details.
